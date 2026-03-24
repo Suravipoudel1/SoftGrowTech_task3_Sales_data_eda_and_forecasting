@@ -57,7 +57,7 @@ This project analyzes a retail sales dataset to uncover business insights and pr
 
 ---
 
-##Graphs 
+## Graphs 
 - <img width="1312" height="672" alt="image" src="https://github.com/user-attachments/assets/9dd5308b-80e2-49ec-97ad-84bfe8b7ac13" />
 - <img width="1296" height="491" alt="image" src="https://github.com/user-attachments/assets/bb9ef7e8-2e77-4d61-9328-2e1ff6ba9b14" />
 - <img width="977" height="592" alt="image" src="https://github.com/user-attachments/assets/6f8416b9-1c3e-4451-9b3f-73d2e0d12d9d" />
